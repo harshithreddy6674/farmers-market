@@ -1,8 +1,3 @@
-# farmers-market
-Here's a clear and professional description you can use for your GitHub repository:
-
----
-
 ## 🌾 Farmers Market – Direct-to-Consumer E-Commerce Platform
 
 This is a full-stack e-commerce website built to empower farmers by allowing them to sell their produce directly to consumers—eliminating middlemen and ensuring fair profits for the farmers.
